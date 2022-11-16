@@ -6,6 +6,7 @@ print(vec.x)
 print(vec.y  * 8)
 ```
 Output: 
-``` 4
+```
+4
 56
 ```
